@@ -1,2 +1,3 @@
-# Face_Detection-ML
-Detecting Faces from an given Image or Videos or webcam. Using Machine learning Approach/Algorithm(Haar Cascade),we can detect the faces from an image or video or using Webcam...
+# Face_Detection Using OpenCV & Python
+
+*In this project,we are detecting the faces using HaarCascades in OpenCV & Python.Face Detection Using Haar Cascades is a Machine Learning based Approach.We can detect Faces from an input image or videos.
